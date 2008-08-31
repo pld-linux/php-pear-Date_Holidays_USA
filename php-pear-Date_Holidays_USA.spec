@@ -6,12 +6,12 @@
 Summary:	%{_pearname} - Driver based class to calculate holidays in USA
 Summary(pl.UTF-8):	%{_pearname} - klasa do obliczania dat świąt w USA
 Name:		php-pear-%{_pearname}
-Version:	0.1.0
+Version:	0.1.1
 Release:	1
 License:	PHP License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	d2006fa2f2f53e2f83026943a4e7c3e5
+# Source0-md5:	ab855257d1d3b7c1029aded96c39e4f2
 URL:		http://pear.php.net/package/Date_Holidays_USA/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
